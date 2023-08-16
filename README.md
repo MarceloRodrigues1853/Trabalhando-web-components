@@ -1,2 +1,4 @@
 # Trabalhando-web-components
-# Projeto de blo com Angular
+# Projeto de blog com Angular
+
+Projeto usundo usando Angular como base
